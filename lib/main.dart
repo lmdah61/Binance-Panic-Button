@@ -9,7 +9,7 @@ void main() {
 
   runApp(
     ChangeNotifierProvider(
-      // Crete a Provider with a Binance API instance
+      // Provider with a Binance API instance
       create: (context) => binanceService,
       child: const MyApp(),
     ),
