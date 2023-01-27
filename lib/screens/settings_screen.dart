@@ -43,7 +43,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
       _storage.write(key: API_SECRET_STORAGE_ID, value: _apiSecret.trim());
       setState(() {});
       showConfirmationDialog(
-          context: context, title: 'Info', message: 'Save successfull');
+          context: context, title: 'Info', message: 'Changes saved successfully');
     } catch (error) {
       showConfirmationDialog(
           context: context, title: 'Error', message: '$error');
