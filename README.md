@@ -1,16 +1,5 @@
-# binance_panic_button
+# Binance Panic Button
 
-A new Flutter project.
+A Flutter app to sell all you Binance coins with just one click.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[api set demo.webm](https://user-images.githubusercontent.com/123673560/215191330-088faba3-b188-4174-856b-425425581d54.webm)[sell demo.webm](https://user-images.githubusercontent.com/123673560/215191355-724393c6-29d5-4f5b-8c4f-f07d3a14ea03.webm)
