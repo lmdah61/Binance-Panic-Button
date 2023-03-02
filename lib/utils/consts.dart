@@ -1,4 +1,4 @@
-const String BASE_URL = 'testnet.binance.vision';
+const String BASE_URL = 'api.binance.com';
 
 const String API_KEY_STORAGE_ID = 'api_key';
 
