@@ -1,0 +1,32 @@
+# Flutter/Dart/Pub related
+*.dart linguist-language=Dart
+
+# Mark generated files as generated
+**/*.g.dart linguist-generated=true
+**/*.freezed.dart linguist-generated=true
+
+# Mark the following directories as vendored (won't count in language statistics)
+.dart_tool/** linguist-vendored
+build/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
+
+# Handle line endings automatically for files detected as text
+* text=auto
+
+# Force LF line endings for Dart files
+*.dart text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# Force binary for image files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
