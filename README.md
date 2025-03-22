@@ -22,8 +22,9 @@ Crypto markets can be extremely volatile. When a market crash happens, you might
 
 ## 📱 Screenshots
 
-![Screenshot_20250322_163815](https://github.com/user-attachments/assets/627eda31-52dc-44dd-b00f-ab023702a281)
-![Screenshot_20250322_163906](https://github.com/user-attachments/assets/eb770e6d-ca34-4b25-9514-69c8d3faabd7)
+<img src="https://github.com/user-attachments/assets/627eda31-52dc-44dd-b00f-ab023702a281" width="300">
+<img src="https://github.com/user-attachments/assets/eb770e6d-ca34-4b25-9514-69c8d3faabd7" width="300">
+
 
 ## 🔧 Installation
 
