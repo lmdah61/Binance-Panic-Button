@@ -15,19 +15,27 @@ The **Binance Panic Button** is a **Flutter-based app** that enables you to quic
 <img src="https://github.com/user-attachments/assets/627eda31-52dc-44dd-b00f-ab023702a281" width="300">
 <img src="https://github.com/user-attachments/assets/eb770e6d-ca34-4b25-9514-69c8d3faabd7" width="300">
 
-## Installation
+### Prerequisites
 
-1. Clone the repository
-   git clone https://github.com/yourusername/binance_panic_button.git
+- **Flutter SDK (3.7+)**
+- **Dart SDK (3.0+)**
+- **Binance account with API access**
 
-2. Navigate to the project folder
-   cd binance_panic_button
+### Installation
 
-3. Install dependencies
-   flutter pub get
+```sh
+# Clone the repository
+git clone https://github.com/yourusername/binance_panic_button.git
 
-4. Run the app
-   flutter run
+# Navigate to the project folder
+cd binance_panic_button
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
 
 ## Setting Up API Keys
 
