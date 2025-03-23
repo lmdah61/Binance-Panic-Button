@@ -1,6 +1,6 @@
 # Binance Panic Button
 
-The **Binance Panic Button** is a **Flutter-based app** that enables you to quickly convert all your crypto assets into a stablecoin with a single tap.
+A Flutter app that enables you to quickly sell all your crypto assets with a single tap.
 
 ## How to Use
 
