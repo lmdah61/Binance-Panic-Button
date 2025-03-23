@@ -15,13 +15,13 @@ The **Binance Panic Button** is a **Flutter-based app** that enables you to quic
 <img src="https://github.com/user-attachments/assets/627eda31-52dc-44dd-b00f-ab023702a281" width="300">
 <img src="https://github.com/user-attachments/assets/eb770e6d-ca34-4b25-9514-69c8d3faabd7" width="300">
 
-### Prerequisites
+## Prerequisites
 
 - **Flutter SDK (3.7+)**
 - **Dart SDK (3.0+)**
 - **Binance account with API access**
 
-### Installation
+## Installation
 
 ```sh
 # Clone the repository
