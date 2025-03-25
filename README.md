@@ -53,11 +53,7 @@ flutter run
 
 This app is **not affiliated with Binance**. Use at **your own risk**. The developer is **not responsible** for any financial losses incurred.
 
-## Contributing
-
-If you find this app useful, please consider supporting its development with a donation:
-
-**Bitcoin Lightning Network**: opulentmenu06@walletofsatoshi.com
+<sub>**Leave a Tip:** opulentmenu06@walletofsatoshi.com</sub>
 
 
 
